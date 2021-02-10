@@ -1,0 +1,11 @@
+.accordion {
+    width: 100%;
+}
+
+.accordion > .card-header.container{
+	background-color: #203B6F;
+}
+
+.accordion > .card-header.container .col-sm{
+    color: white;
+}

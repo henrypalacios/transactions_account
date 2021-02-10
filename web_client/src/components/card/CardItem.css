@@ -1,0 +1,18 @@
+.card-body{
+    color: black;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+.card-header .col-sm {
+    color: black;
+}
+.col-sm.negative {
+    color: red;
+}
+
+.col-sm.positive {
+    color: green;
+}
